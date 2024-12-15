@@ -1,0 +1,7 @@
+*.json
+*.csv
+*.txt
+__pycache__/
+Synthetic\ Movement\ Data/
+upload-poi-layer.py
+upload-user-layer.py
